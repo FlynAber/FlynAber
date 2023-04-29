@@ -10,7 +10,3 @@ While I am realitvely new to Python I find that it is really easy to learn and c
 
 I want to continue updating these programs but it can be hard to find time sometimes. Check back every now and then to see if I've posted any new updates to my repositories.
 
-
-### Contact me:
-- E-mail : FlynAber@hotmail.com
-- Discord : Flyn#2906
